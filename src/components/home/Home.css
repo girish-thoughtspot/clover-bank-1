@@ -1,0 +1,8 @@
+.home {
+    margin-top: 20px;
+}
+
+.home > img {
+    margin: 15px;
+    cursor: pointer;
+}
